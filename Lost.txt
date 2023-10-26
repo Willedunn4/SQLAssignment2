@@ -1,0 +1,2 @@
+﻿Character,Type,Map_Location,Original_charachter,Sword_Fighter,Magic_User
+Murray,Ghost,,TRUE,FALSE,FALSE

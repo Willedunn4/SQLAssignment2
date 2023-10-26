@@ -1,0 +1,4 @@
+﻿Character,Type,Map_Location,Original_charachter,Sword_Fighter,Magic_User
+Otis,Inmate,Melee Island,TRUE,TRUE,FALSE
+Captain LeChuck,Ghost Pirate,LeChuck's ship,TRUE,TRUE,TRUE
+Iron Rose,Ghost Pirate,LeChuck's ship,FALSE,TRUE,FALSE

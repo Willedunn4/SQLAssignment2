@@ -1,0 +1,8 @@
+C:\Users\wille\source\repos\SQLDatabase2\bin\Debug\SQLDatabase2.exe.config
+C:\Users\wille\source\repos\SQLDatabase2\bin\Debug\SQLDatabase2.exe
+C:\Users\wille\source\repos\SQLDatabase2\bin\Debug\SQLDatabase2.pdb
+C:\Users\wille\source\repos\SQLDatabase2\obj\Debug\SQLDatabase2.csproj.AssemblyReference.cache
+C:\Users\wille\source\repos\SQLDatabase2\obj\Debug\SQLDatabase2.csproj.CoreCompileInputs.cache
+C:\Users\wille\source\repos\SQLDatabase2\obj\Debug\SQLDatabase2.exe
+C:\Users\wille\source\repos\SQLDatabase2\obj\Debug\SQLDatabase2.pdb
+C:\Users\wille\source\repos\SQLDatabase2\bin\Debug\Chars.csv

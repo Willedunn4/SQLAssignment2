@@ -1,0 +1,21 @@
+1 - Murray -  Ghost -  - True - False - False
+2 - Locke Smith -  Human - Melee Island - False - False - False
+3 - Murray -  Ghost -  - True - False - False
+4 - Locke Smith -  Human - Melee Island - False - False - False
+5 - Herman Toothrot -  - Terror Island - False - False - False
+6 - Voodoo Lady -  Melee Island - Melee Island - True - False - True
+7 - Otis -  Inmate - Melee Island - True - True - False
+8 - Carla -  Pirate - Melee Island - True - True - False
+9 - Captain Madison - Pirate - Melee Island - False - True - False
+10 - Judge Planke - NPC - Brrrmuda - False - False - False
+11 - Murray -  Ghost -  - True - False - False
+12 - Locke Smith -  Human - Melee Island - False - False - False
+13 - Herman Toothrot -  - Terror Island - False - False - False
+14 - Voodoo Lady -  Melee Island - Melee Island - True - False - True
+15 - Otis -  Inmate - Melee Island - True - True - False
+16 - Carla -  Pirate - Melee Island - True - True - False
+17 - Captain Madison - Pirate - Melee Island - False - True - False
+18 - Judge Planke - NPC - Brrrmuda - False - False - False
+19 - Boybrush Threepwood - Human -  - False - False - False
+20 - Guybrush Threepwood - Mighty Pirate -  - True - False - False
+21 - Elain Marley - Politician - Scurvy Island - True - True - False
